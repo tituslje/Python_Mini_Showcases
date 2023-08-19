@@ -1,0 +1,7 @@
+Libraries==version:
+numpy==1.25.1
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+updated August 2023
