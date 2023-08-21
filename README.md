@@ -38,5 +38,6 @@ Additional path forwards:
 2. If the number of unique surface configurations >=5, use a colour bar to represent the various surfaces. If the number <5, use a legend instead of a colour bar.
 3. Code Optimisation to decrease runtime.
 
+**Note: Documentation for research project incomplete, expected end date: 27/8/2023**
 
 **Note: Version numbers of files are as such: V0,V1,V2,V3... (V0 is not labelled on file name at all)**
