@@ -9,7 +9,7 @@ My Python learning journey started off as pure interest, as I heard all the craz
 After practising for a few months, I am very fortunate to score a Summer internship with Micron, where I get to use more Python to create more complicated programs (I am a noobie at that time), and it was a complete treat! More details over at the Micron intern project repository:) Since then, I have been applying my Python skills towards research, automating simple calculations and data collection tasks. Wherever there is an opportunity for an easier way to do things, I turn to Python. Thus, this also led me to think: how can I use Python to solve real-world problems? But on a smaller scale, I intended to use Python to solve some problems which I have always wanted to solve, or obtain information through an easier avenue.
 
 **The next few projects I had in mind for the next few months/1 year**:
-1. A web crawler that will compile all financial news about a certain ETF, or a certain company I am interested in any day I wanted it.
+1. A web crawler that will compile all financial news about a certain ETF, or a certain company I am interested in any day I wanted it. Good for people who wants tailored up-to-date news in 1 place.
 2. A PDF/Excel Scraper algorithm for a conventional dataset.
 3. Exploring time series models in financial markets, and training my very own model!
 
@@ -30,14 +30,11 @@ I am proud to put this here on my Github, as it is my research interest and I am
 
 For a brief background of the project, feel free to check out the 'background' subfolder where I store my poster and report! Currently in 2023, starting August my task will mainly be creating a Python script and training computational models to ensure that research work by the graduate students can be accelerated. A publication is also in the working as well. 
 
-***Work in Progress***
+***UPDATE 27/8/2023***
 The Python script is mainly to create a heatmap that showcases different structures of a surface material of a catalyst, Titanium Carbide. However, it is still incomplete.
 
 Additional path forwards:
-1. Make sure the colours on the heatmap reflect the surface number configuration correctly.
-2. If the number of unique surface configurations >=5, use a colour bar to represent the various surfaces. If the number <5, use a legend instead of a colour bar.
-3. Code Optimisation to decrease runtime.
-
-**Note: Documentation for research project incomplete, expected end date: 27/8/2023**
+1. Allow for varying pressure as well in finer intervals 
+2. Organise code better for clearer display
 
 **Note: Version numbers of files are as such: V0,V1,V2,V3... (V0 is not labelled on file name at all)**
