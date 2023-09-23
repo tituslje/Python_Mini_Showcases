@@ -14,7 +14,7 @@ After practising for a few months, I am very fortunate to score a Summer interns
 3. Exploring time series models in financial markets, and training my very own model!
 
 **The next few skills I would like to learn from now to 1 year ahead**:
-1. Machine Learning with TensorFlow, PyTorch. (Currently taking Coursera courses on the side to learn more)
+1. Machine Learning with TensorFlow, PyTorch. (Currently taking Coursera courses on the side to learn more) Currently enrolled: Machine Learning Specialization offered by Stanford and DeepLearning.AI
 2. Using Polars instead of Pandas (said to be faster)
 3. Increasing familiarity with Python in general
 
