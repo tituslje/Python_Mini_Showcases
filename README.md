@@ -10,12 +10,12 @@ After practising for a few months, I am very fortunate to score a Summer interns
 
 **The next few projects I had in mind for the next few months/1 year**:
 1. A web crawler that will compile all financial news about a certain ETF, or a certain company I am interested in any day I want it. (Currently de-prioritised in favour of trading interest)
-2. Back-testing algorithms and trading algorithms for my own trading account (most recent interest)
+2. Back-testing algorithms and trading algorithms for my own trading account (most recent interest) ***see trading interest repo***
 
 **The next few skills I would like to learn from now to 1 year ahead**:
 1. Machine Learning with TensorFlow, PyTorch. (Currently taking Coursera courses on the side to learn more) Currently enrolled: Machine Learning Specialization offered by Stanford and DeepLearning.AI
 2. Using Polars instead of Pandas, and aiming to convert after I learnt abit more about it.
-3. How to code out trading algorithms that are efficient, since anybody could code out one but the execution time varies widely.
+3. How to code out trading algorithms that are efficient, since anybody could code out one but the execution time varies widely. ***See trading interest repo***
 
 ## Coursera_mini_projs
 
@@ -32,11 +32,3 @@ For a brief background of the project, feel free to check out the 'background' s
 The Python script is mainly to create a heatmap that showcases different structures of the surface material of a catalyst, Titanium Carbide. It helps the graduate researchers save time in generating the visualisation, which enables the conduct of more targeted research which saves even more time overall. For example, some surface structures will always be less stable than others, hence it is not worthwhile focusing on those since the contributions to the process will be inferior to others. However in the past, some post graduates took a while to reach the same conclusion for the less stable structures, simply because there is too much data to churn through.
 
 Update Frequency: Stopped since Dec 2023 when I left my research stint. Code is not anything secret as well.
-
-## Trading Algorithm Interest
-
-After my recent internship at Sumitomo Corporation, I began to read up more on commodity trading and futures trading as well. I am currently still reading up on the CME Group website, and aim to start actively trading on own account by the end of this year. Previously I was a dividend investor buying and selling equities on MooMoo, and still have holdings in there till today.
-
-My goals for this area are mainly to create effective back-testing algorithms before I push my strategies to the trading API, which I will monitor after office hours to check for any bugs/profitability issues. I first started by coding out a barebones simple pairs trading script to check for spreads between stocks (example code I pushed is between XOM and SHEL). Then, I ventured into trying to hedge the S&P500 using macro factors like inflation rate (CPI) and Real GDP growth rates, and my interest in coding out back-testing algorithms grew from there. The code that I shared here are solely my own and not copy-pasted from GPT, Stack Overflow or any other sources. 
-
-Update Frequency for this section: Every 2 weeks optimally, during school time every month or so due to external volunteering and part-time job commitments.
