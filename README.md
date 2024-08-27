@@ -37,7 +37,9 @@ Update Frequency: Stopped since Dec 2023 when I left my research stint. Code is 
 
 This folder comprises of all school projects that I have undertaken, be it individually or pair work. The 3 projects done are summarised as below:
 1. HDB_Project_Final.ipynb shows how I applied the data science process to analysing HDB resale prices, applying descriptive and regression analysis.
-2. Diamonds_regmodel.ipynb shows the application of data analysis and advanced machine learning techniques (linear regression, ridge regression, random forest), comparing their effectiveness via metrics like RMSE and R2. Before applying techniques, I am required to read up and cite research papers as part of a final report requirement.
-3. cars_NNModel.ipynb shows the application of neural network to train a model to discern different car models using a publicly available dataset. The neural network set up is based on my methodology, and justified via a final report write-up.
+2. Diamonds_regmodel.ipynb shows the application of data analysis and advanced machine learning techniques (linear regression, ridge regression, random forest), comparing their effectiveness via metrics like RMSE and R2. Before applying techniques, I am required to read up and cite research papers as part of a final report requirement. Task is about predicting diamond prices based on diamond characteristics, using a publicly available dataset.
+3. cars_First_NNModel.ipynb shows the application of neural network to train a model to discern different car models using a publicly available dataset. The neural network set up is based on my methodology, and justified via a final report write-up.
 
 Concepts learnt in school: Data Cleaning & Organisation, Principal Component Analysis, Machine Learning Tools (linear regression, multi-variate regression, non-linear regression, ridge regression, classification algorithms), basic neural networks using TensorFlow and introduction to convolutional neural networks (CNN). Basic probability & statistics.
+
+Projects are presented in Jupyter Notebook format for easy look.
