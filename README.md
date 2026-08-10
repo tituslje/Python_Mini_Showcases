@@ -1,25 +1,12 @@
 # Welcome to my Python Mini Showcases!
 
-Welcome to my little space, where I showcase the stuff that I do in school/online courses/personal interests and other areas of my life, but purely in Python. Not in Anaconda because I don't like that snake (just kidding I just use Visual Studio code).
-
-August 2023 marks my first commit, more to come in future:) Hope everyone that passes by my profile enjoys the Python learning journey as much as I do! In addition, I will be using this repo to show how far I have come since my day 1 "Hello World" script :') A reminder for myself to keep improving and challenging the status quo.
-
 My Python learning journey started off as pure interest, as I heard all the craze about coding and computer science these days. But who knew Python could actually be so fun! My first lengthy script was a Sentiment analyser on Coursera, and I have been practising my coding skills since then. After a month or two, I chanced upon a research opportunity at NTU, which enabled me to use Python as well during my stint as a research assistant. To date, I am still part of the same research group I joined back in August 2021. What I enjoy about coding is its problem-solving aspect, where I combine my technical curiosity with Python, to come up with creative solutions and programs that help others move forward. I also enjoy the creativity that comes with coding, due to the vast number of libraries available on the Internet. 
 
 After practising for a few months, I am very fortunate to score a Summer internship with Micron, where I get to use more Python to create more complicated programs (I am a noobie at that time), and it was a complete treat! More details over at the Micron intern project repository:) Since then, I have been applying my Python skills toward research, automating simple calculations and data collection tasks. Wherever there is an opportunity for an easier way to do things, I turn to Python. Thus, this also led me to think: How can I use Python to solve real-world problems? But on a smaller scale, I intended to use Python to solve some problems that I have always wanted to solve or obtain information through an easier avenue.
 
-**The next few projects I had in mind for the next few months/1 year**:
-1. A web crawler that will compile all financial news about a certain ETF, or a certain company I am interested in any day I want it. (Currently de-prioritised in favour of trading interest)
-2. Back-testing algorithms and trading algorithms for my own trading account (most recent interest) ***see trading interest repo***
-
-**The next few skills I would like to learn from now to 1 year ahead**:
-1. Machine Learning with TensorFlow, PyTorch. (Currently taking Coursera courses on the side to learn more) Currently enrolled: Machine Learning Specialization offered by Stanford and DeepLearning.AI
-2. Using Polars instead of Pandas, and aiming to convert after I learnt abit more about it.
-3. How to code out trading algorithms that are efficient, since anybody could code out one but the execution time varies widely. ***See trading interest repo***
-
 ## Coursera_mini_projs
 
-So far, I have created a Sentiment analysis script based on a final mini project after learning basic Python on Coursera. This was my very first Python script created as part of a mini project, after learning the language (fun fact). Script is self-explanatory, categorises positive and negative words based on a backlog of common words, and assigns a positive and negative score depending on the word type. At the end, a plot is generated which shows the number of words in each positive/negative score number.
+So far, I have created a Sentiment analysis script based on a final mini project after learning basic Python on Coursera. Script categorises positive and negative words based on a backlog of common words, and assigns a positive and negative score depending on the word type. At the end, a plot is generated which shows the number of words in each positive/negative score number.
 
 ## Computational_Catalysis_Research (accurate as of 27/8/2024)
 
